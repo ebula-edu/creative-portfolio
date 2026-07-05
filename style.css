@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  background: #ff5e62;
+  background: linear-gradient(135deg, #ff9966, #ff5e62);
+  color: white;
+  margin: 0;
+  padding: 6rem 2rem;
+  text-align: center;
+}
+.hero h1 { font-size: 3rem; margin: 0; }
